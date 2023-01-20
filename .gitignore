@@ -1,0 +1,4 @@
+# Arquivos ou pastas que devem ser ignorados e não irão para o repositório remoto.
+# Ex: pastas build .idea 
+# Para remover uma pasta que já foi para o repositório, basta adiciona-la ao gitignore e remover com o 
+# comando git  $ git rm -r --cached nome_da_pasta
